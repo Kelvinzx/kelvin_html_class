@@ -1,0 +1,29 @@
+.head{
+    background-color: rgb(50, 207, 168);
+    color: rgb(15, 1, 1); 
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+     
+
+}
+
+.center{
+    display: flex;
+    box-sizing: ;
+}
+
+
+
+.title{
+    background-color: rgb(15, 90, 71);
+    color: rgb(172, 32, 32); 
+    padding: 20px; 
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    font-size: xx-large;
+    
+}
