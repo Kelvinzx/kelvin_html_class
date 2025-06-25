@@ -1,0 +1,25 @@
+.bio{
+    color:purple;
+
+}
+.body{
+    background-color: rgb(122, 137, 133);
+    color: rgb(15, 1, 1); 
+    padding: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin: auto;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.free{font-style: italic;
+}
+.bi{font-style: italic;
+}
+.tit{
+    font-size: x-large;
+    color: blueviolet;
+    font-weight: bold;
+    text-align: center;
+
+}
